@@ -25,6 +25,7 @@ Tools for building automated workflows across sales, marketing, and CRM systems.
 - [n8n](https://n8n.io/) - A source-available workflow automation platform for building AI agents, API integrations, and multi-step automations with visual nodes and code. [![GitHub stars](https://img.shields.io/github/stars/n8n-io/n8n?style=social)](https://github.com/n8n-io/n8n)
 - [Cargo](https://www.getcargo.ai/) - A GTM infrastructure platform for building revenue workflows across data, handoffs, automation, and AI agents.
 - [Octave](https://www.octavehq.com/) - An agentic GTM platform for turning ICP, positioning, and market context into research, qualification, personalization, and outbound workflows.
+- [Deepline](https://deepline.com/) - An agent-native GTM API and CLI for enrichment, validation, waterfalls, scoring, and CRM writeback from coding agents or scripts.
 
 _[Contribute to list!](#contributing)_
 
@@ -58,12 +59,16 @@ Tools for account research, prospect research, web scraping, search, market mapp
 - [Stagehand](https://www.browserbase.com/stagehand/) - An open-source AI browser automation framework from Browserbase for building browser agents with natural language actions, structured extraction, and Playwright-style control. [![GitHub stars](https://img.shields.io/github/stars/browserbase/stagehand?style=social)](https://github.com/browserbase/stagehand)
 - [Browser Use](https://browser-use.com/) - An open-source browser automation library that lets AI agents navigate websites, click, fill forms, and extract data. [![GitHub stars](https://img.shields.io/github/stars/browser-use/browser-use?style=social)](https://github.com/browser-use/browser-use)
 - [PhantomBuster](https://phantombuster.com/) - A sales prospecting and data automation platform for automating web tasks, scraping profiles, building lists, and running outreach workflows.
+- [Apify](https://apify.com/) - A web scraping and automation platform with API-driven actors for collecting structured public web data.
+- [Crawl4AI](https://github.com/unclecode/crawl4AI) - An open-source crawler for turning websites into clean Markdown or structured data for AI agents and research pipelines. [![GitHub stars](https://img.shields.io/github/stars/unclecode/crawl4AI?style=social)](https://github.com/unclecode/crawl4AI)
 
 _[Contribute to list!](#contributing)_
 
 ## Signals
 
 Tools for tracking events that show buying intent or account activity, such as website visits, product usage, job changes, funding, hiring, news, and community activity.
+
+- [Common Room](https://www.commonroom.io/) - A customer intelligence platform for unifying product, community, website, job, and intent signals into actionable GTM workflows.
 
 _[Contribute to list!](#contributing)_
 
@@ -101,11 +106,15 @@ _[Contribute to list!](#contributing)_
 
 Tools for assigning leads, accounts, meetings, alerts, and tasks to the right owner or workflow.
 
+- [Default](https://www.default.com/) - An inbound orchestration platform for enriching, qualifying, routing, and scheduling leads from forms and website activity.
+
 _[Contribute to list!](#contributing)_
 
 ## Analytics
 
 Tools for measuring pipeline, campaigns, conversion, attribution, activity, and GTM performance.
+
+- [HockeyStack](https://www.hockeystack.com/) - A B2B revenue analytics platform for attribution, buyer journeys, account scoring, and GTM performance reporting.
 
 _[Contribute to list!](#contributing)_
 
