@@ -96,8 +96,6 @@ _[Contribute to list!](#contributing)_
 Tools for managing CRM data, fields, objects, syncs, hygiene, and revenue system operations.
 
 - [Attio](https://attio.com/) - An AI CRM with a flexible data model for managing contacts, companies, deals, workflows, and GTM records.
-- [HubSpot](https://www.hubspot.com/) - A customer platform and CRM for managing marketing, sales, service, operations, automation, and customer data in one system.
-- [Salesforce](https://www.salesforce.com/) - An enterprise CRM platform for managing accounts, contacts, opportunities, service, marketing, data, automation, and AI agents.
 - [Twenty](https://twenty.com/) - An open-source CRM for contacts, companies, opportunities, custom objects, workflows, and self-hosted CRM setups. [![GitHub stars](https://img.shields.io/github/stars/twentyhq/twenty?style=social)](https://github.com/twentyhq/twenty)
 
 _[Contribute to list!](#contributing)_
