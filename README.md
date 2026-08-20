@@ -119,7 +119,7 @@ _[Contribute to list!](#contributing)_
 ## Learning
 
 Courses, guides, communities, playbooks, templates, and examples for learning GTM Engineering.
-
+- [GTM Engineer School](https://gtm-engineer-school.com/) - 8-week live cohort to learn a full GTME stack (Claude, Clay and more) and finish by completing a Capstone Project.
 - [Clay University](https://university.clay.com/) - Clay's self-serve learning hub for tutorials, lessons, and product education on Clay workflows.
 - [Clay Cohorts](https://www.university.clay.com/cohorts) - Clay's cohort-based training program for learning Clay through guided exercises, peer support, and practical assignments.
 - [Alpha Forge](https://community.clay.com/x/announcements/46hgjtsfaea4) - Clay's GTM Engineering career prep bootcamp for learning the role, modern revenue stacks, and practical GTM engineering workflows.
