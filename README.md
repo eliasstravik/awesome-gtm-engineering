@@ -23,6 +23,7 @@ Tools for building automated workflows across sales, marketing, and CRM systems.
 
 - [Clay](https://www.clay.com/) - An AI-powered GTM platform for data enrichment, prospect research, workflow automation, and personalized outbound.
 - [n8n](https://n8n.io/) - A source-available workflow automation platform for building AI agents, API integrations, and multi-step automations with visual nodes and code. [![GitHub stars](https://img.shields.io/github/stars/n8n-io/n8n?style=social)](https://github.com/n8n-io/n8n)
+- [pipe0](https://www.pipe0.com/) - A GTM automation platform and API for enrichment waterfalls across 50+ providers, contact search, scheduled pipelines, and agent workflows via App, SDK, or MCP.
 - [Cargo](https://www.getcargo.ai/) - A GTM infrastructure platform for building revenue workflows across data, handoffs, automation, and AI agents.
 - [Octave](https://www.octavehq.com/) - An agentic GTM platform for turning ICP, positioning, and market context into research, qualification, personalization, and outbound workflows.
 - [Deepline](https://deepline.com/) - An agent-native GTM API and CLI for enrichment, validation, waterfalls, scoring, and CRM writeback from coding agents or scripts.
