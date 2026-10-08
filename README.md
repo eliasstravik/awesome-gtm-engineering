@@ -61,6 +61,7 @@ Tools for account research, prospect research, web scraping, search, market mapp
 - [PhantomBuster](https://phantombuster.com/) - A sales prospecting and data automation platform for automating web tasks, scraping profiles, building lists, and running outreach workflows.
 - [Apify](https://apify.com/) - A web scraping and automation platform with API-driven actors for collecting structured public web data.
 - [Crawl4AI](https://github.com/unclecode/crawl4AI) - An open-source crawler for turning websites into clean Markdown or structured data for AI agents and research pipelines. [![GitHub stars](https://img.shields.io/github/stars/unclecode/crawl4AI?style=social)](https://github.com/unclecode/crawl4AI)
+- [Silicon Valley Atlas](https://svatlas.io/) - A sourced directory of accelerator-backed AI startups that reads a product's website, writes its ideal-customer profile, and ranks the startups most likely to buy, with every fact linked to its source.
 
 _[Contribute to list!](#contributing)_
 
