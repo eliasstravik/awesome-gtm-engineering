@@ -46,6 +46,7 @@ Tools for finding, enriching, cleaning, validating, and maintaining company and 
 - [Crunchbase](https://www.crunchbase.com/) - A company intelligence platform for researching companies, funding, investors, acquisitions, leadership, and growth signals.
 - [Ocean.io](https://www.ocean.io/) - A B2B data platform for finding lookalike companies, building account lists, and using company data in GTM workflows.
 - [HG Insights](https://hginsights.com/) - A revenue growth intelligence platform for technographic, firmographic, spend, intent, and market data used for segmentation, targeting, and account prioritization.
+- [Kooperativa.io](https://kooperativa.io/) - A people and company data API with an MCP server, for profile enrichment, search, hiring signals, and job-change tracking in GTM workflows.
 
 _[Contribute to list!](#contributing)_
 
