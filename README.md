@@ -79,6 +79,7 @@ Tools for running outbound campaigns across email, LinkedIn, calls, and other ch
 - [Instantly](https://instantly.ai/) - A cold email and sales engagement platform for connecting sending accounts, warming inboxes, finding leads, running sequences, and managing replies.
 - [Smartlead](https://www.smartlead.ai/) - A cold email platform for managing sending inboxes, warmup, deliverability, and campaign sequences at scale.
 - [HeyReach](https://www.heyreach.io/) - A LinkedIn outreach platform for agencies and sales teams to run multi-account campaigns, manage lead lists, and handle replies from a unified inbox.
+- [Warmerly](https://warmerly.com/) - Email warmup and cold outreach software for warming up Gmail and Outlook mailboxes, then running campaigns and replies from one workspace.
 
 _[Contribute to list!](#contributing)_
 
