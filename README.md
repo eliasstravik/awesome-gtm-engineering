@@ -69,6 +69,8 @@ _[Contribute to list!](#contributing)_
 Tools for tracking events that show buying intent or account activity, such as website visits, product usage, job changes, funding, hiring, news, and community activity.
 
 - [Common Room](https://www.commonroom.io/) - A customer intelligence platform for unifying product, community, website, job, and intent signals into actionable GTM workflows.
+- [ATS Hiring Signals](https://apify.com/goldenrod_serrano/ats-hiring-signals) - An Apify Actor for tracking hiring at target accounts: open jobs, new and closed roles since the last run, and a 0-100 hiring score from six public ATS job boards (Greenhouse, Lever, Ashby and more). Pay per result.
+- [Workday Hiring Signals](https://apify.com/goldenrod_serrano/workday-hiring-signals) - An Apify Actor for the same hiring signals on Workday career sites, with server-side country or city filters (e.g. GCC, India) for regional account lists. Pay per result.
 
 _[Contribute to list!](#contributing)_
 
