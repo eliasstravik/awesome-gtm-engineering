@@ -69,6 +69,7 @@ _[Contribute to list!](#contributing)_
 Tools for tracking events that show buying intent or account activity, such as website visits, product usage, job changes, funding, hiring, news, and community activity.
 
 - [Common Room](https://www.commonroom.io/) - A customer intelligence platform for unifying product, community, website, job, and intent signals into actionable GTM workflows.
+- [MentionFox Funded This Week](https://mentionfox.com/funding/week) - A free weekly list of US companies that just filed new SEC Form D raises, with the executives each filing names and how to reach the company.
 
 _[Contribute to list!](#contributing)_
 
