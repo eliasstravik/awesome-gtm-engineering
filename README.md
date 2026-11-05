@@ -69,6 +69,7 @@ _[Contribute to list!](#contributing)_
 Tools for tracking events that show buying intent or account activity, such as website visits, product usage, job changes, funding, hiring, news, and community activity.
 
 - [Common Room](https://www.commonroom.io/) - A customer intelligence platform for unifying product, community, website, job, and intent signals into actionable GTM workflows.
+- [OpenSparta](https://opensparta.com/en) - A Telegram marketing workspace for account and proxy operations and campaign workflows; its pricing page lists Lead Radar for monitoring selected communities for buying requests and ranking matching messages with source evidence.
 
 _[Contribute to list!](#contributing)_
 
