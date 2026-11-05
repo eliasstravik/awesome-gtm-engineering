@@ -53,6 +53,7 @@ _[Contribute to list!](#contributing)_
 
 Tools for account research, prospect research, web scraping, search, market mapping, list building, and finding useful context before outreach or routing.
 
+- [EarlyLore](https://earlylore.com/) - A research workspace for founders to study real SaaS products, revenue signals and public competitor changes before building.
 - [Exa](https://exa.ai/) - A web search API built for AI applications, with tools for search, content extraction, similar-page discovery, answers, and structured research.
 - [Firecrawl](https://www.firecrawl.dev/) - An API for scraping, crawling, searching, and extracting web data into clean Markdown or structured formats for AI apps and agents. [![GitHub stars](https://img.shields.io/github/stars/firecrawl/firecrawl?style=social)](https://github.com/firecrawl/firecrawl)
 - [Browserbase](https://www.browserbase.com/) - A cloud browser platform for giving AI agents and automations reliable access to websites, authenticated sessions, and browser tasks.
