@@ -46,6 +46,7 @@ Tools for finding, enriching, cleaning, validating, and maintaining company and 
 - [Crunchbase](https://www.crunchbase.com/) - A company intelligence platform for researching companies, funding, investors, acquisitions, leadership, and growth signals.
 - [Ocean.io](https://www.ocean.io/) - A B2B data platform for finding lookalike companies, building account lists, and using company data in GTM workflows.
 - [HG Insights](https://hginsights.com/) - A revenue growth intelligence platform for technographic, firmographic, spend, intent, and market data used for segmentation, targeting, and account prioritization.
+- [Company Social Profile Finder](https://apify.com/publicrecords/company-social-profile-finder) - Resolves a company website or name to public LinkedIn, YouTube, Instagram and Facebook profile URLs for lead enrichment.
 
 _[Contribute to list!](#contributing)_
 
@@ -69,6 +70,11 @@ _[Contribute to list!](#contributing)_
 Tools for tracking events that show buying intent or account activity, such as website visits, product usage, job changes, funding, hiring, news, and community activity.
 
 - [Common Room](https://www.commonroom.io/) - A customer intelligence platform for unifying product, community, website, job, and intent signals into actionable GTM workflows.
+- [Google Ads Transparency (Public Records)](https://apify.com/publicrecords/google-ads-transparency-scraper) - Public Google Ads Transparency Center creatives and advertiser records, used as a competitive or intent signal.
+- [Ashby Jobs (Public Records)](https://apify.com/publicrecords/ashby-jobs-scraper) - Public Ashby career-board job postings, used as a company hiring signal.
+- [Greenhouse Jobs (Public Records)](https://apify.com/publicrecords/greenhouse-jobs-scraper) - Public Greenhouse board job postings, used as a company hiring signal.
+- [Lever Jobs (Public Records)](https://apify.com/publicrecords/lever-jobs-scraper) - Public Lever board job postings, used as a company hiring signal.
+- [SmartRecruiters Jobs (Public Records)](https://apify.com/publicrecords/smartrecruiters-jobs-scraper) - Public SmartRecruiters board job postings, used as a company hiring signal.
 
 _[Contribute to list!](#contributing)_
 
