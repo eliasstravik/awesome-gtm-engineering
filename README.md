@@ -46,6 +46,7 @@ Tools for finding, enriching, cleaning, validating, and maintaining company and 
 - [Crunchbase](https://www.crunchbase.com/) - A company intelligence platform for researching companies, funding, investors, acquisitions, leadership, and growth signals.
 - [Ocean.io](https://www.ocean.io/) - A B2B data platform for finding lookalike companies, building account lists, and using company data in GTM workflows.
 - [HG Insights](https://hginsights.com/) - A revenue growth intelligence platform for technographic, firmographic, spend, intent, and market data used for segmentation, targeting, and account prioritization.
+- [Leadsets](https://www.leadsets.ai/) - An API and MCP server for Unlimited B2B Contact Data, with people and company search, enrichment, and work-email verification, starting from $29/mo.
 
 _[Contribute to list!](#contributing)_
 
